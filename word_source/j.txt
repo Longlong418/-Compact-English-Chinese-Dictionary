@@ -1,0 +1,280 @@
+jab
+=>vt.vi. 刺;戳;猛击@n. 刺;戳;猛击
+jabber
+=>vt.vi. 快而含糊地说;吱吱喳喳地叫;闲聊@n. 快而含糊不清的话
+jabiru
+=>n. 鹳属大涉禽之一种
+jabot
+=>n. 胸部装饰
+jacal
+=>n. 小茅屋
+jacaranda
+=>n. 紫威科树木;其木材
+jacinth
+=>n. 风信子石;橘红色
+jack
+=>n. 插座;千斤顶;男人@vt. 抬起;提醒;扛举;增加;提高;放弃@a. 雄的
+jackal
+=>n. 狐狼;帮凶;走狗@vi. 当走狗
+jackanapes
+=>n. 无礼的男人;顽童;猿
+jackaroo
+=>n. 实习;无经验者;新手@vi. 实习;当新手
+jackass
+=>n. 公驴;愚蠢的人;傻瓜
+jackboot
+=>n. 长统靴
+jackdaw
+=>n. 寒鸦
+jacket
+=>n. 夹克;外套;护套@vt. 给...穿夹克;给...装护套
+jacketed
+=>adj. 加套的
+jackhammer
+=>n. 手提钻
+jackknife
+=>n. 大折合式刀;镰刀式跳水@vi. 弯身@vt. 用大折刀切
+jackleg
+=>a. 未成熟的;不正直的;代用的
+jacklight
+=>n. 照明灯@vi. 用照明灯渔猎
+jackscrew
+=>n. 螺旋起重机
+jackson
+=>n. 杰克森
+jacksrew
+=>n. 插口螺旋
+jackstraw
+=>n. 稻草人;小木片;骨
+jacob
+=>n. 男人名;雅各
+jacobean
+=>a. James一世时代的;黑橡木色的@n. James一世时代的政治家
+jacobinism
+=>n. Jacobin 党的主义;激进共和主义
+jacobus
+=>n. James 一世时代的金币
+jaconet
+=>n. 薄棉布
+jaculate
+=>vt. 向前掷
+jade
+=>n. 玉;翡翠;老马@a. 绿色的;玉制的@vt.vi. (使)疲倦
+jaded
+=>a. 疲倦不堪的;厌倦的
+jadeite
+=>n. 硬玉的一种
+jag
+=>n. 缺口;突出端;小量负荷;小伙子@vt. 使成缺口;使成锯齿状@vi. 刺;戳
+jagged
+=>a. 锯齿状的
+jaggery
+=>n. 粗糖
+jaggies
+=>计算机] 走样
+jaguar
+=>n. 美洲虎
+jail
+=>n. 监牢;监狱;拘留所@vt. 监禁;下狱
+jailbird
+=>n. 囚犯;累犯;恶痞
+jailed
+=>adj. 监禁的
+jailer
+=>n. 看守监狱的人;狱卒
+jailor
+=>n. 看守监狱的人;狱卒
+jake
+=>a. 满意的;上等的@n. 乡下佬;家伙
+jakes
+=>n. 厕所
+jalap
+=>n. 泻药
+jalousie
+=>n. 百叶窗
+jam
+=>n. 果酱;拥塞之物;堵塞;困境@vt. 挤进;使塞满;混杂;压碎;使堵塞@vi. 堵塞;轧住;拥挤
+jamaica
+=>n. 牙买加;牙买加甜酒
+jambalaya
+=>n. 什锦菜肴
+james
+=>n. 詹姆士
+jammed
+=>pp. 拥塞
+jammer
+=>n. 干扰机
+jamming
+=>n. 干扰台;人为干扰
+jan
+=>n. 一月
+jane
+=>n. 珍
+jangle
+=>vi.vt. 吵架;(使)发出刺耳声@n. 吵嚷;刺耳声;空谈
+jangling
+=>adj. 吵闹的
+janitor
+=>n. 守卫;门警;管理人
+janitress
+=>n. 女性的守卫;女性的门警
+janizary
+=>n. 土耳其士兵;亲信
+january
+=>n. 一月
+janus
+=>n. 两面神
+japan
+=>n. 日本
+japanese
+=>n. 日本人;日文@a. 日本的;日本语的
+japanize
+=>vt. 使成日本式;使日本化;置于日本影响下
+japanology
+=>n. 日本学;日本研究
+jape
+=>n. 戏言;笑料;嘲弄@vi. 开玩笑@vt. 嘲弄
+japonica
+=>n. 日本产植物
+jar
+=>n. 广口瓶;震动;刺耳声@vi. 震惊;冲突;发刺耳声;不一致@vt. 震动;刺激
+jargon
+=>n. 专门术语;行话;梦话;土语
+jargonelle
+=>n. 一种早熟的梨子
+jarovize
+=>vt. 实施人工方法使植物早熟
+jarring
+=>a. 辗轧的;刺耳的;不和谐的@n. 辗轧声;震动;冲突
+jasmine
+=>n. 茉莉;淡黄色
+jasper
+=>n. 碧玉;绿色装饰用宝石
+jato
+=>n. 喷射机起飞促进
+jaundice
+=>n. 黄疸;偏见;乖僻@vt. 使患黄疸;使怀偏见
+jaundiced
+=>a. 患黄疸病的;有偏见的;嫉妒的
+jaunt
+=>n. 远足;徒步旅游@vi. 远足;徒步旅游
+jauntily
+=>ad. 快活地;活泼地;洋洋得意地
+jauntiness
+=>n. 快活;活泼;得意洋洋
+jaunty
+=>a. 快活的;活泼的;轻快的
+java
+=>n. 爪哇;爪哇产的咖啡;咖啡
+javanese
+=>a. 爪哇的;爪哇人的;爪哇语的@n. 爪哇人;爪哇岛人;爪哇语
+javelin
+=>n. 标枪
+jaw
+=>n. 颚;颌@vt.vi. 闲谈;教训;唠叨
+jawbone
+=>n. 颚骨;下颚骨;信用@vi.vt. 赊买
+jawboning
+=>n. 州长向劳工界界领袖发出的劝告
+jawbreaker
+=>n. 难发音的字
+jaws
+=>n. 口;狭口;咽喉;险地
+jay
+=>n. 鸟;喋喋不休的人;傻瓜
+jaywalk
+=>vi. 擅自穿越马路
+jaywalker
+=>n. 不守交通规则
+jazz
+=>n. 爵士乐;喧闹@a. 爵士乐的;喧吵的@vi. 演奏爵士乐;跳爵士乐;游荡@vt. 奏爵士乐;使活泼
+jazzily
+=>ad. 爵士地;奔放地;激烈地
+jazzman
+=>n. 爵士音乐家
+jazzy
+=>a. 爵士的;奔放的;激烈的
+jcl
+=>n. 作业控制语言
+jealous
+=>a. 嫉妒的;羡慕的;留心的;戒备的
+jealousy
+=>n. 妒忌;猜忌;羡慕
+jean
+=>n. 牛仔裤;牛仔布;斜纹棉布
+jeans
+=>n. 牛仔裤
+jeep
+=>n. 吉普车@vi. 乘吉普车@vt. 用吉普车运
+jeer
+=>n. 嘲笑;讥讽;戏弄;@vt.vi. 嘲弄;揶揄;戏弄
+jeeringly
+=>ad. 嘲弄地
+jeffersonian
+=>a. Jefferson 派的@n. Jefferson 的支持者
+jehu
+=>n. 开快车者;出租车司机
+jejune
+=>a. 贫弱的;不毛的;无味干燥的;不成熟的
+jejunum
+=>n. 空肠
+jekyll
+=>n. 吉柯博士
+jell
+=>vt.vi. (使)成胶状@n. 果子冻
+jellied
+=>a. 凝成胶状的;涂凝胶物的
+jellify
+=>vt.vi. (使)成凝胶状
+jelly
+=>n. 果冻;果冻甜食;胶状物@vt.vi. (使)结冻;(使)成胶状
+jellyfish
+=>n. 水母;海蜇;意志薄弱的人
+jennet
+=>n. 西班牙种小马
+jeopardize
+=>vt. 危害;使受危困;使陷危地
+jeopardy
+=>n. 危难;危险
+jerboa
+=>n. 跳鼠
+jeremiad
+=>n. 悲叹;悲痛话;怨恨
+jeremiah
+=>n. 耶利米;耶利米书
+jerk
+=>n. 性情古怪的人;急拉;肌肉抽搐;牛肉干@vi. 痉挛;急拉;急推@vt. 猛拉
+jerkin
+=>n. 男用无袖短上衣;短上衣
+jerkiness
+=>n. 急动;抽筋
+jerkwater
+=>a. 微小的
+jerky
+=>a. 急动的;抽筋的;抽筋性的@n. 牛肉干
+jerry
+=>a. 草率的;偷工减料的
+jersey
+=>n. 运动衫
+jerusalem
+=>n. 耶路撒冷
+jess
+=>n. 鹰的脚带@vt. 系以脚带
+jesse
+=>n. 男人名;耶西
+jest
+=>n. 笑柄;笑话@vi. 讲笑话;嘲笑;开玩笑@vt. 嘲笑
+jester
+=>n. 讲笑话的人;小丑
+jesuit
+=>n. 耶稣会信徒;阴险的人;阴谋家
+jesuitical
+=>a. 耶稣会的;狡猾的;阴险的
+jesuitism
+=>n. 耶稣会的教义;狡猾;阴谋
+jesus
+=>n. 耶稣
+jet
+=>n. 喷射;喷出;黑玉@vt.vi. 射出;迸出;喷射@a. 黑玉色的;墨黑的
+jetliner
+=>n. 喷气客机

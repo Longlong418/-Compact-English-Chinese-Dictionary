@@ -1,0 +1,430 @@
+c
+=>n. 字母C
+cab
+=>n. 计程车;出租汽车;出租单马车@vi. 乘出租马车
+cabal
+=>n. 徒党;秘密结社;(尤指政治上的)阴谋@vi. 策划阴谋
+cabala
+=>n. 犹太神秘哲学;秘法
+cabalism
+=>n. 犹太神秘哲学
+cabalist
+=>n. 犹太神秘哲学者;秘法家
+caballero
+=>n. 西班牙绅士;骑师;骑手
+cabana
+=>n. 小屋;有凉台平房的屋子
+cabaret
+=>n. (有音乐;歌舞的)酒店;酒店的歌舞表演
+cabbage
+=>n. 卷心菜
+cabbagehead
+=>n. 笨蛋
+cabbies
+=>n. 计程车司机;出租马车的车夫
+cabby
+=>n. 计程车司机;出租马车的车夫
+caber
+=>n. 投棒
+cabin
+=>n. 小屋;客舱@vt. 关在小屋
+cabined
+=>a. 被关在;拘束的;狭窄的
+cabinet
+=>n. 橱柜;内阁@a. 内阁的;小巧的
+cabinetmaker
+=>n. 家具师;细工木匠
+cable
+=>n. 电缆;海底电报;缆;索@vi. 打海底电报@vt. 发海底电报;缚住
+cablegram
+=>n. 海底电报
+cablet
+=>n. 圆周 10 英寸以下的九股扭成的钢索;细缆
+cableway
+=>n. 空中索道
+cabling
+=>n. 接缆
+cabman
+=>n. 计程车司机;出租马车的车夫
+caboodle
+=>n. 群;伙;堆
+caboose
+=>n. (载货火车最后一节的)守车;轮船上的厨房
+cabriolet
+=>n. 蓬式汽车
+cabstand
+=>n. 出租车停车场
+cacao
+=>n. 可可子;可可树
+cachalot
+=>n. 抹香鲸
+cache
+=>n. 隐藏所;隐藏的粮食或物资;贮藏物@vt. 隐藏;窖藏@n. 高速缓冲存储器
+cachectic
+=>a. 恶病的;极瘦弱的
+cachinnation
+=>n. 大笑;哄笑;放纵地笑
+cackle
+=>n. 咯咯声;高笑声;饶舌;闲谈@vi. 咯咯地叫;格格地笑;喋喋不休
+cacodaemon
+=>n. 恶鬼;恶人
+cacophonous
+=>a. 发音不和谐的;粗腔横调的
+cacophony
+=>n. 不愉快的音调;不协和音;杂音
+cacti
+=>n.pl. 仙人掌
+cactus
+=>n. 仙人掌
+cad
+=>n. 卑鄙的男人;下流人;无赖@n. 计算机辅助设计;计算机存取装置
+cadaver
+=>n. 死尸;尸体
+cadaverous
+=>a. 象尸体的;苍的的
+caddie
+=>n. 球童@vi. 当球童
+caddish
+=>a. 下流的;卑鄙的
+caddy
+=>n. 小盒子;小罐;茶叶罐
+cadence
+=>n. 韵律;抑扬;调子;节奏
+cadet
+=>n. 军官学校学生
+cadetship
+=>n. 军校学员的地位
+cadge
+=>vt.vi. 行乞;乞讨;贩卖
+cadi
+=>n. 下级法官
+cadillac
+=>n. 卡迪拉克
+cadmium
+=>n. 镉
+cadre
+=>n. 骨骼;干部;本部
+caducei
+=>n.pl.MERCURY的手杖;(二蛇盘绕;为医术的标志)
+caduceus
+=>n. MERCURY的手杖;(二蛇盘绕;为医术的标志)
+caducity
+=>n. 早落性;暂时;无常;衰老
+caecum
+=>n. 盲肠
+caesar
+=>n. 罗马的将军;政治家;历史家
+caesarean
+=>a. 恺撒的;帝国的;专制的@n. 罗马皇帝的拥护者;专制统治的拥护者
+caesarist
+=>n. 帝政主义者
+caesious
+=>a. 青灰色的
+caesura
+=>n. 休止
+cafe
+=>n. 咖啡馆;酒店
+cafes
+=>n. 咖啡店;茶馆;酒馆
+cafeteria
+=>n. 自助餐厅
+caffein
+=>n. 咖啡因;茶精(兴奋剂)
+caffeine
+=>n. 咖啡因;茶精(兴奋剂)
+caftan
+=>n. 有腰带的长袖衣服
+cage
+=>n. 笼;槛;战俘营@vt. 关进笼内
+cageling
+=>n. 笼中鸟
+cager
+=>n. 篮球选手
+cahoot
+=>n. 合谋
+cai
+=>n. 计算机辅助教育;计算机模拟输入
+caique
+=>n. 轻巧小舟;帆船
+caire
+=>n. 开罗
+cairn
+=>n. 石堆纪念碑;石冢;堆石界标
+cairo
+=>n. 开罗
+caisson
+=>n. 弹药箱;弹药车;潜水箱(水中工程用)
+caitiff
+=>a. 卑劣的@n. 卑鄙男人
+cajole
+=>vt. 以甜言蜜语哄骗;勾引
+cajolery
+=>n. 诱骗;谄媚;甜言蜜语
+cake
+=>n. 蛋糕;块;饼@vt. 使块结;加块状物于@vi. 块结
+cakewalk
+=>n. 步态竞赛;一种步态舞@vi. 举行步态竞赛
+caking
+=>adj. 结块的
+caky
+=>a. 饼状的;凝固的
+cal
+=>n. CAL语言
+calabash
+=>n. 葫芦
+calaboose
+=>n. 监狱
+calamander
+=>n. 黑檀的一种
+calamary
+=>n. 枪乌贼
+calamitous
+=>a. 多灾难的;不幸的
+calamity
+=>n. 灾难;不幸事件
+calc
+=>n. 计算
+calcaneal
+=>n. 脚后跟
+calcic
+=>a. 钙的;含钙的
+calciferous
+=>a. 含碳酸钙的
+calcification
+=>n. 石灰化
+calcify
+=>vi. 变成石灰质;钙化@vt. 使成石灰
+calcimine
+=>n. 墙粉(一种涂料)@vt. 刷墙粉于
+calcination
+=>n. 锻烧;灼热;烧矿法
+calcine
+=>vt.vi. 烧成石灰;锻烧
+calcined
+=>pp. 烧成石灰
+calcite
+=>n. 方解石
+calcium
+=>n. 钙
+calculability
+=>n. 可计算
+calculable
+=>a. 可计算的;可信赖的;可靠的
+calculagraph
+=>n. 计时器
+calculate
+=>vt.vi. 计算;考虑;计划;打算
+calculated
+=>a. 有计划的;适当的;适合的;计算出的
+calculating
+=>vbl. 计算;考虑
+calculation
+=>n. 计算;考虑;计算的结果
+calculative
+=>a. 计算的;善于计算的;精明的
+calculator
+=>n. 计算者;计算机@n. 计算器
+calculi
+=>n. 微积分学;结石
+calculous
+=>a. 结石的;结石症的
+calculus
+=>n. 微积分学;结石
+calcutta
+=>n. 印度东北部的港市
+caldera
+=>n. 喷火山口
+caldron
+=>n. 大锅;大汽锅
+calefacient
+=>a. 增温的;变暖的@n. 增温物质
+calefy
+=>vt.vi. (使)变暖
+calendar
+=>n. 日历;日程表@vt. 列入表中
+calender
+=>n. 研光机@vt. 以研光机压光
+calendula
+=>n. 金盏草
+calf
+=>n. 小牛;小牛皮;腓;小腿
+calfskin
+=>n. 小牛的皮;犊皮所制的革
+caliber
+=>n. 口径;才干;器量
+calibrate
+=>vt. 测定口径;校准;查看刻度;划刻度
+calibration
+=>n. 口径测定;查刻度;划刻度;校准
+calibre
+=>n. 口径;才干;器量
+calico
+=>n. 印花棉布;白洋布
+calicoback
+=>n. 甘蓝菜的害虫
+california
+=>n. 加利福尼亚;加州
+californian
+=>n. 加州人;加利福尼亚州人@a. 加州的
+californium
+=>n. 卡
+caliper
+=>n. 弯脚器;测径器;卡钳@vt. 用测径器测量
+calipers
+=>n.pl. 弯脚器;测径器
+caliph
+=>n. 哈利发;回教国国王
+calisthenic
+=>a. 柔软体操的;美容体操的
+calisthenics
+=>n. 柔软体操;运动
+calix
+=>n. 杯;凹洼;杯状窝
+calk
+=>vt. 填...以防漏;使不漏水;装尖铁;摹描复制@n. 尖铁
+calker
+=>n. 填塞船板隙缝的人或工具
+call
+=>n. 呼叫;访问;打电话;号召;召集;要求@vt. 呼叫;召集;打电话@vi. 叫喊;访问;叫牌@n. DOS命令:从当前运行的批文件中引用第二个批文件;然后返回@到原来的批文件
+calla
+=>n. 水芋;荷兰海芋;
+callable
+=>a. 可召唤的;请求即付的;随时可偿还的
+callback
+=>n. 收回
+callboard
+=>n. 通告板
+caller
+=>n. 访客;召集员;传唤员@a. 新鲜的
+calligrapher
+=>n. 书法家
+calligraphic
+=>a. 书法的;善写的
+calligraphy
+=>n. 笔迹;书法;墨宝
+calling
+=>n. 职业;行业;邀请;召集
+calliope
+=>n. 雄辩和叙事诗的女神;气笛风琴;并笛
+callosity
+=>n. 硬结;老茧皮;无情
+callous
+=>a. 麻木的;无情的;坚硬的;硬结的;起老茧的@vt. 使硬结;使麻木
+callow
+=>a. 年轻而无经验的;(鸟)未生羽毛的
+calls
+=>n. 调用
+callus
+=>n. 皮肤的硬结;胼胝;(植物伤口的)愈合组织
+calm
+=>n. 平稳;风平浪静@a. 平静的;冷静的@vi. 平静下来;镇静@vt. 使平静
+calmative
+=>a. 使镇静的@n. 镇静剂
+calmly
+=>ad. 平静地;安静地;冷静地
+calmness
+=>n. 平静;镇静;冷静
+calomel
+=>n. 甘汞
+calorescence
+=>n. 热光
+caloric
+=>n. 热@a. 热的;热量的;卡路里的
+calorie
+=>n. 卡路里
+calories
+=>me. 卡路里
+calorific
+=>a. 生热的;发热的;热的
+calorimeter
+=>n. 热量计
+calorimetry
+=>n. 热量测定
+calotte
+=>n. 头盖帽;半球帽;半球状的东西
+caltrops
+=>n. 三角钉
+calumet
+=>n. 北美土人所用之一种烟斗;和平的象征
+calumniate
+=>vt. 中伤;诽谤
+calumniation
+=>n. 诽谤;中伤
+calumniator
+=>n. 中伤者;诽谤者
+calumniatory
+=>a. 诽谤的;中伤的
+calumny
+=>n. 诽谤;中伤
+calutron
+=>n. 分离同位素的电磁装置
+calvados
+=>n. 卡巴度斯苹果酒
+calvary
+=>n. 耶稣被钉死于十字架之地
+calve
+=>vt.vi. 生小牛;下仔;(使)分离
+calvin
+=>n. 加尔文
+calvinism
+=>n. 加尔文教派;加尔文主义
+calvinist
+=>n. 加尔文教徒
+calx
+=>n. 金属灰;矿灰;生石灰
+calyculus
+=>n. 杯状构造
+calyx
+=>n. 花萼
+cam
+=>n. 凸轮@n. 计算机辅助制造;中央地址存储器
+camber
+=>n. 弧形;眉形;(机翼的)弯曲度@vi. 成弧形@vt. 使弯作弧形
+cambist
+=>n. 各国度量衡;货币比较表;兑换商
+cambium
+=>n. 形成层;新生组织
+cambodia
+=>n. 高棉
+cambrel
+=>n. 吊肉棒
+cambrian
+=>a. 寒武纪的@n. Cambria 人;Wales 人;寒武纪层
+cambric
+=>n. 一种亚麻布或棉布
+cambridge
+=>n. 剑桥
+came
+=>vbl. 来;来临;成为
+camel
+=>n. 骆驼;打捞浮筒
+cameleer
+=>n. 骆驼夫;骆驼骑兵
+camellia
+=>n. 茶花;山茶
+camelopard
+=>n. 鹿豹座
+camembert
+=>n. 法国 Camembert村所产的软质乳酪
+cameo
+=>n. 刻有浮雕的宝石或贝壳
+camera
+=>n. 照相机;摄影机密谈室@n. 摄影
+cameralistics
+=>n. 财政学
+cameraman
+=>n. 照相师;摄影师
+cameramen
+=>n. 摄影者
+camion
+=>n. 载货马车;炮车;军用卡车
+camisole
+=>n. 女背心
+camlet
+=>n. 一种轻的布料;羽纱
+camorrist
+=>n. 秘密结社党员
+camouflage
+=>vt. 伪装;欺瞒@n. 伪装;隐瞒;幌子
+camp
+=>n. 露营;帐棚@vi. 露营;扎营@vt. 使扎营

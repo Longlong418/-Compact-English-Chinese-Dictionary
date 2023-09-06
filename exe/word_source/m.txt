@@ -1,0 +1,282 @@
+m
+=>n. 字母m
+mac
+=>n. 媒体存取控制
+macabre
+=>a. 以死亡为主题的;可怕的
+macadam
+=>n. 碎石;碎石路
+macadamize
+=>vt. 简易地铺装;以碎石铺
+macaque
+=>n. 短尾猿
+macaroni
+=>n. 通心面;纨绔子弟
+macaroon
+=>n. 蛋白杏仁饼干
+macaw
+=>n. 金刚鹦鹉;美国棕榈
+mace
+=>n.钉头锤;权标;权杖;执权标者
+macedonian
+=>a. 马其顿的@n. 马其顿人
+macerate
+=>vi. 浸软;消瘦@vt. 把...浸软;使消瘦
+machete
+=>n. 弯刀@NUM@NUM
+machiavellian
+=>a. 马基雅弗利的;权谋术的@n. 权谋政治家
+machicolate
+=>vt. 开牒眼(枪眼)
+machinable
+=>a. 可机加工的
+machinate
+=>vt.vi. 图谋;策划
+machination
+=>n. 阴谋;图谋;策划
+machinator
+=>n. 策划者;阴谋家
+machine
+=>n. 机器;机械装置;机构;设计;机械般工作的人@vt. 以机器制造
+machinelike
+=>a. 机器般的
+machinery
+=>n. 机器;机关;结构
+machinist
+=>n. 机械师;机械安装修理工;机械工
+machism
+=>n. 马赫主义
+machismo
+=>n. 男子气概
+macho
+=>adj. 男性化
+macintosh
+=>n. 涂橡胶防水布;防水套@n. APPLE公司的一种计算机型号
+mackerel
+=>n. 鲭
+mackinaw
+=>n. 方格纹毛毯;由该毛毯制成的短衣
+mackintosh
+=>n. 橡皮布;橡皮布防水衣;雨衣
+macle
+=>n. 双晶;斑点
+macrame
+=>n. 丝结的饰缘;花边
+macro
+=>a. 巨大的;大量使用的@n. 宏
+macrobian
+=>a. 长寿的@n. 长寿的人
+macrobiotics
+=>n. 长寿法
+macrocephalic
+=>a. 大头的;巨头的
+macrocosm
+=>n. 大宇宙;大世界;全域;整体
+macroeconomic
+=>n. 整体经济
+macrolibrary
+=>n. 巨程式库
+macromolecule
+=>n. 巨大分子;高分子
+macroparameter
+=>n. 巨参数
+macroscopical
+=>a. 肉眼可见的;宏观的
+macrospore
+=>n. 大胞子
+macrostructure
+=>n. 宏观结构
+macula
+=>n. 斑点;污点;黑点;太阳黑子;斑疹
+macular
+=>a. 有斑点的;有污点的
+maculate
+=>a. 有斑点的;有污点的@vt. 使有斑点;使有污点
+maculation
+=>n. 斑点;污点;玷污
+mad
+=>a. 疯狂的;发疯的;生气的;愚蠢的;狂欢的@n. 狂怒
+madam
+=>n. 女士;夫人
+madarosis
+=>n. 睫毛脱落
+madcap
+=>a. 鲁莽的;狂妄的@n. 鲁莽;狂妄
+madden
+=>vt. 使发狂;激怒@vi. 发狂;发怒
+maddening
+=>a. 令人发狂的;激怒的;使人气极的
+madder
+=>n. 西草属的植物;洋西;人造西草染料
+madding
+=>a. 发狂的;狂乱的
+made
+=>a. 已制成的;成功的;创造的@vbl. make的过去式和过去分词
+madeira
+=>n. 大西洋的群岛名;该地产的白葡萄酒
+madhouse
+=>n. 精神病院;极为吵闹的场所
+madistor
+=>n. 磁控电浆半导体元件
+madly
+=>ad. 发狂地;精神失常地;愚蠢地
+madman
+=>n. 疯子;精神病患者
+madness
+=>n. 疯狂;愚蠢的行为
+madonna
+=>n. 圣母玛利亚;圣母像
+madras
+=>n. 一种薄棉布
+madrid
+=>n. 马德里
+madrigal
+=>n. 情歌;小调;重唱歌曲
+madwoman
+=>n. 狂女;疯女
+maelstrom
+=>n. 大漩涡;挪威近海的大漩涡;漩涡
+maenad
+=>n. Bacchus 的女侍;狂女
+maffia
+=>n. 黑手党;秘密政党
+mafia
+=>n. 黑手党;秘密政党
+mafioso
+=>n. 黑手党成员;秘密政党成员
+mag
+=>n. Margaret 的昵称
+magazine
+=>n. 杂志;仓库;弹盒;胶卷盒
+magdalene
+=>n. 从良的妓女
+magenta
+=>n. 红紫色;洋红
+maggot
+=>n. 狂想;空想;蛆
+maggoty
+=>a. 狂想的;多蛆的
+magic
+=>n. 魔术;魔法@a. 魔术的;有魔力的;不可思议的
+magical
+=>a. 魔术的;有魔力的;不可思议的
+magician
+=>n. 魔术家;幻术家;术士
+maginot line
+=>n. 马其诺防线
+magisterial
+=>a. 长官的;严然的;有权威的
+magisterium
+=>n. 教权
+magistracy
+=>n. 长官的职位;地方行政长官
+magistral
+=>a. 教师的;长官的;独断的
+magistrate
+=>n. 长官;法官;推事
+magma
+=>n. 岩浆;糊剂;糊
+magnadur
+=>n. 铁钡永磁合金;马格那多尔磁性合金
+magnanimity
+=>n. 宽宏大量
+magnanimous
+=>a. 宽宏大量的;有雅量的
+magnate
+=>n. 大官;巨头
+magnesia
+=>n. 苦土;氧化镁
+magnesian
+=>a. 氧化镁的;镁的
+magnesium
+=>n. 镁
+magnet
+=>n. 磁铁;有吸引力之人;有吸引力之物
+magnetic
+=>a. 有磁性的;有吸引力的;催眠术的
+magnetics
+=>n. 磁学
+magnetism
+=>n. 磁性;吸引力;磁学;催眠术
+magnetite
+=>n. 磁铁矿
+magnetization
+=>n. 磁化
+magnetize
+=>vt. 使带磁力;吸引@vi. 受磁
+magnetizer
+=>n. 磁化器
+magneto
+=>n. 磁发电机
+magnetometer
+=>n. 磁力计
+magneton
+=>n. 磁子
+magnetron
+=>n. 磁电管
+magnification
+=>n. 扩大;夸张;赞美
+magnificence
+=>n. 富丽堂皇;华丽;宏大
+magnificent
+=>a. 华丽的;高尚的;丰富的
+magnificient
+=>adj. 壮丽
+magnifico
+=>n. 贵族;大官;显要人物
+magnifier
+=>n. 放大镜;放大器
+magnify
+=>vt. 放大;扩大;赞美;夸大@vi. 有放大能力
+magniloquence
+=>n. 夸张的话;大言;豪语
+magniloquent
+=>a. 使用夸大文句的;夸张的;吹牛的
+magnitude
+=>n. 巨大;重大;重要;大小;数量;光度
+magnolia
+=>n. 木兰;玉兰类的植物
+magpie
+=>n. 鹊;鸽的一种;绕舌的人@a. 斑驳的;有收集癖的;混杂的
+maguey
+=>n. 龙舌兰;其纤维
+magus
+=>n. 魔术家;占星家
+magyar
+=>n. 马札儿人;马札儿语@a. 马札儿人的;匈牙利人的
+mahatma
+=>n. 大圣;超人
+mahjong
+=>n. 麻将
+mahogany
+=>n. 桃花心木;其木材;红褐色
+mahout
+=>n. 象夫
+maid
+=>n. 少女;未婚女子;女仆
+maiden
+=>n. 年轻未婚女子;少女;处女@a. 未婚的;处女的;初次的;无经验的
+maidenhair
+=>n. 过坛龙;石长生;孔雀草
+maidenhood
+=>n. 处女性;处女时代
+maidenliness
+=>n. 象处女;谨慎;稳静
+maidenly
+=>a. 象处女的;谨慎的;稳静的
+maidservant
+=>n. 女仆;女佣
+mail
+=>n. 邮件;邮政;邮递;盔甲@vt.邮寄;给...穿盔甲
+mailable
+=>a. 可邮寄的
+mailbag
+=>n. 邮袋
+mailbox
+=>n. 邮筒;邮箱
+mailer
+=>n. 邮寄者;邮船;邮件发送机
+mailing
+=>n. 邮寄;投递;邮件;农场租金
+maillot
+=>n. 紧身衣
